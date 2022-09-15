@@ -1,0 +1,90 @@
+.nav-cont{
+    position: fixed;
+width: 1518px;
+height: 119px;
+left: 0px;
+top: 0px;
+
+background: black;
+}
+
+.nav-t1{
+    position: absolute;
+width: 63px;
+height: 22px;
+left: 82px;
+top: 50px;
+cursor: pointer;
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+color: #FA3143;
+
+text-shadow: 1px 2px 15px #FA3143;
+}
+
+.nav-t2{
+    position: absolute;
+width: 98px;
+height: 22px;
+left: 352px;
+top: 50px;
+cursor: pointer;
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+color: #FA3143;
+
+text-shadow: 1px 2px 15px #FA3143;
+}
+
+.logo{
+    position: absolute;
+    width: 118px;
+    height: 111px;
+    left: 690px;
+    top: 5px;
+    cursor: pointer;
+}
+
+.nav-t3{
+    position: absolute;
+width: 52px;
+height: 28px;
+left: 1075px;
+top: 50px;
+cursor: pointer;
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+color: #3F8FCB;
+
+text-shadow: 1px 2px 15px #3F8FCB;
+}
+
+.nav-t4{
+    position: absolute;
+width: 68px;
+height: 28px;
+left: 1354px;
+top: 50px;
+cursor: pointer;
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+color: #3F8FCB;
+
+text-shadow: 1px 2px 15px #3F8FCB;
+}

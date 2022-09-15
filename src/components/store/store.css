@@ -1,0 +1,188 @@
+.store-cont{
+    position: absolute;
+    width: 1518px;
+height: 883px;
+left: 0px;
+top: 700px;
+background-color: black;
+
+}
+
+.store-bg{
+    position: absolute;
+width: 937px;
+height: 814px;
+left: 582px;
+top: 25px;
+opacity: 70%;
+}
+
+.store-t{
+    position: absolute;
+    width: 138px;
+    height: 44px;
+    left: 40px;
+    top: 53px;
+
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 60px;
+text-transform: uppercase;
+
+color: #F5F187;
+
+text-shadow: 1px 2px 15px #F5F187;
+}
+
+.card-cont{
+    position: absolute;
+width: 1032px;
+height: 476px;
+left: 0px;
+top: 110px;
+
+background: #2C2F30;
+}
+
+.card-1{
+    position: absolute;
+width: 344px;
+height: 476px;
+left: 0px;
+top: 0px;
+
+background: #2C2F30;
+box-shadow: 1px 1px 6px #7B7B7B;
+}
+.card-2{
+    position: absolute;
+width: 344px;
+height: 476px;
+left: 344px;
+top: 0px;
+
+background: #2C2F30;
+box-shadow: 1px 1px 6px #7B7B7B;
+}
+.card-3{
+    position: absolute;
+width: 344px;
+height: 476px;
+left: 688px;
+top: 0px;
+
+background: #2C2F30;
+box-shadow: 1px 1px 6px #7B7B7B;
+}
+
+.core{
+    position: absolute;
+width: 218px;
+height: 24px;
+left: 131px;
+top: 14px;
+
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0.045em;
+
+color: #FDCC0E;
+
+text-shadow: 1px 2px 15px #FDCC0E;
+}
+
+.item-name{
+    position: absolute;
+width: 345px;
+height: 36px;
+left: 21px;
+top: 95px;
+
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 45px;
+letter-spacing: 0.045em;
+
+color: #FFFFFF;
+}
+
+.product-img{
+    position: absolute;
+width: 208px;
+height: 208px;
+left: 50px;
+top: 161px;
+}
+
+.price{
+    position: absolute;
+width: 168px;
+height: 30px;
+left: 29px;
+top: 390px;
+
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 40px;
+letter-spacing: 0.045em;
+
+color: #FA3143;
+}
+
+.buy-b{
+    position: absolute;
+width: 110px;
+height: 40px;
+left: 203px;
+top: 390px;
+cursor: pointer;
+background: #FDCC0E;
+box-shadow: 1px 2px 15px #FDCC0E;
+border-radius: 10px;
+}
+
+.buy-t{
+    position: absolute;
+width: 50px;
+height: 25px;
+left: 28px;
+top: 5px;
+
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0.045em;
+
+color: #000000;
+}
+
+.store-link{
+    position: absolute;
+width: 213px;
+height: 30px;
+left: 1253px;
+top: 150px;
+cursor: pointer;
+font-family: 'Tomkin';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 50px;
+letter-spacing: 0.045em;
+text-decoration-line: underline;
+
+color: #FDCC0E;
+
+text-shadow: 1px 2px 15px #FDCC0E;
+}
